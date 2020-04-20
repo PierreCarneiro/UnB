@@ -1,3 +1,5 @@
+https://img.shields.io/github/repo-size/PierreCarneiro/UnB
+
 # UnB
 Trabalho da UnB
 
